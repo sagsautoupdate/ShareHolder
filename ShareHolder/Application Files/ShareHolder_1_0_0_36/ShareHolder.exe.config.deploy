@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+                <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+                        <section name="ShareHolder.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+                </sectionGroup>
+        </configSections>
+        <startup>
+            
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup>
+        <userSettings>
+                <ShareHolder.Properties.Settings>
+                        <setting name="UserName" serializeAs="String">
+                                <value/>
+                        </setting>
+                        <setting name="Password" serializeAs="String">
+                                <value/>
+                        </setting>
+                        <setting name="Server" serializeAs="String">
+                                <value/>
+                        </setting>
+                        <setting name="DataSource" serializeAs="String">
+                                <value/>
+                        </setting>
+                </ShareHolder.Properties.Settings>
+        </userSettings>
+  <appSettings>
+    <add key="Server_Giang" value="uH5KOzXF+mjnvOfgHSW7vv5Dx4zR7wnS6GmShJEuunt8IFWr8irrvhurF3+kL8X2qLKNZhc1605qFc9gBeyJEUN9KkA8CImgvJnWYacdMlsk6pyZIfuBldRT9NyNaoz8JHc0z2foDAeQjiS8qBpxi+DFG4ha20cAlIKQl8UiKFo="/>
+    <add key="Server_Quoc" value="kQhH6VLvYvQv6nDph0BCkeYtd+R2O3Sh3SdbPet44OLAEzuDZJhLW9qxvIYCM4kWuEt+Rh2U6iOyWVneGoChFODLoteOnOKTTpmr6omdK6+N51pOLvdQioVO5Jj++reJf4RD3oX7X7DPlO2G+0KoTg3auRhPZosUJcYZ9hpFf7A="/>
+    <add key="Server_SAGS" value="RIXrvkPhBHnJyUciwX3gRDGz95/3ghlXRbKZgGYMEF3TJ8jUSehEv5VxbK2DY7I6ELGraYen2xlQ5ySHsGTpiobcqiStpvrMmP1MQoqdBREKH1ZHvrSJBQoP8ecM1iuJ+GXOmUasVy+dHXFJ3/jLoiypeLdhWE9X4988JOAllgCtIIlzFgg1gZMzoiLPU/3E"/>
+    <add key="ConnectionString" value="RIXrvkPhBHnJyUciwX3gRDGz95/3ghlXRbKZgGYMEF3TJ8jUSehEv5VxbK2DY7I6ELGraYen2xlQ5ySHsGTpiobcqiStpvrMmP1MQoqdBREKH1ZHvrSJBQoP8ecM1iuJ+GXOmUasVy+dHXFJ3/jLoiypeLdhWE9X4988JOAllgCtIIlzFgg1gZMzoiLPU/3E"/>
+    <add key="ClientSettingsProvider.ServiceUri" value=""/>
+  </appSettings>
+  <connectionStrings>
+    <add name="Server_SAGS" connectionString="Gi9lgp/wyxFx7gyM+eoHWSFxfR/nM/Ainrn2SH6L7QsSKK+Mn+yMNGsII6SBF5a17i0KnOBQyMk2Pirow/FuVfg3x3VlCWRRXI3RmZadh44iIMMDDPXc1+WkNAKI+Aj7Tj1MMvFBLiFOZaA3FCHWhvnsxaVMHzzdnovjc6KAxzw="/>
+  </connectionStrings>
+</configuration>
